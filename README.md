@@ -27,6 +27,7 @@ The repository mainly consists of modules for data loading, model definition, tr
 - `model.py`: implementation of the Crown-BERT network architecture  
 - `train.py`: training script for model optimization  
 - `test.py`: evaluation script for model testing and performance assessment
+- 'main.py':run 
 ## Usage
 
 The environment configuration, dependency settings, and key hyperparameters used in this project are provided directly in the code. Please refer to `train.py`, `test.py`, and the related implementation files for details.
