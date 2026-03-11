@@ -1,13 +1,5 @@
-import copy
 import torch
 import torch.nn as nn
-from sklearn.metrics import classification_report
-
-
-import torch
-import torch.nn as nn
-
-
 def train_supervised_model(
     train_loader,
     model,
