@@ -26,8 +26,8 @@ The repository mainly consists of modules for data loading, model definition, tr
 - `load_data.py`: functions for reading HDF5 files and preparing the crown-level inputs used by Crown-BERT  
 - `model.py`: implementation of the Crown-BERT network architecture  
 - `train.py`: training script for model optimization  
-- `test.py`: evaluation script for model testing and performance assessment
-- 'main.py':run 
+- `test.py`: evaluation script for model testing and performance assessment  
+- `main.py`: main script for organizing the overall workflow, including data loading, model construction, training, and evaluation
 ## Usage
 
 The environment configuration, dependency settings, and key hyperparameters used in this project are provided directly in the code. Please refer to `train.py`, `test.py`, and the related implementation files for details.
